@@ -1,7 +1,7 @@
 .nav__list {
   display: flex;
   align-items: center;
-  column-gap: 44px;
+  gap: 44px;
 }
 
 .nav__link {

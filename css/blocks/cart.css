@@ -36,10 +36,10 @@
   grid-column: 6 span;
 }
 .cart__col--image {
-  grid-column: 1 span;
+  grid-column: 2 span;
 }
 .cart__col--info {
-  grid-column: 5 span;
+  grid-column: 4 span;
 }
 .cart__col--quantity {
   grid-column: 2 span;

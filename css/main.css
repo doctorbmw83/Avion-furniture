@@ -6,10 +6,11 @@
 
 /* blocks */
 @import "./../css/blocks/btn.css";
+@import "./../css/blocks/burger.css";
 @import "./../css/blocks/stepper.css";
 @import "./../css/blocks/grid.css";
 @import "./../css/blocks/header.css";
-@import "./../cssblocks/logo.css";
+@import "./../css/blocks/logo.css";
 @import "./../css/blocks/nav.css";
 @import "./../css/blocks/centered.css";
 @import "./../css/blocks/title.css";
@@ -35,3 +36,5 @@
 @import "./../css/blocks/product-info.css";
 /* cart */
 @import "./../css/blocks/cart.css";
+/* media */
+@import "./../css/blocks/media.css";

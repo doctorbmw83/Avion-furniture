@@ -26,6 +26,9 @@
 .hero__link {
   margin-bottom: auto;
 }
+.hero__link:focus-visible {
+  outline: 2px dashed var(--white);
+}
 
 .hero__description {
   margin: 0;

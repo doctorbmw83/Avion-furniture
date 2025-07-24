@@ -7,6 +7,7 @@
   line-height: 1.5;
 }
 .page__body {
+  min-width: 390px;
   font-family: var(--font-family);
 }
 .container {
@@ -44,4 +45,8 @@
 .no-spinners::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+
+.stop-scroll {
+  overflow: hidden;
 }
